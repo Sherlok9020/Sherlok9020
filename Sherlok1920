@@ -1,0 +1,4 @@
+function block(letter, rate, used , father)
+this.letter=letter;
+this,rate=rate;
+this,used-used;
